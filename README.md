@@ -696,7 +696,7 @@ Requires:
 ### `xbmc`
 
 This service allows for on-screen notification popups on [XBMC](http://xbmc.org/) instances. Each target requires
-the address and port of the XBMC instance (<hostname>:<port>)
+the address and port of the XBMC instance (<hostname>:<port>).
 
 ```ini
 [config:xbmc]
